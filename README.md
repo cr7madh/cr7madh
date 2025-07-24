@@ -1,5 +1,6 @@
  I’m @cr7madh
-- from name you should know that i am fan of football and cr7
+- fan of football and cr7
+- CS, AI, Coding
 - contact me- madhavsharma.ng@gmail.com
 
 <!---
