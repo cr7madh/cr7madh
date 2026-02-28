@@ -1,7 +1,8 @@
- I’m @cr7madh
-- fan of football and cr7
-- CS, AI, Coding
-- contact me- madhavsharma.ng@gmail.com
+AI Student 🤖 | Developer 💻 | Problem Solver ⚡
+Building projects that solve real problems
+Learning in public • Shipping fast • Growing daily
+Future Tech Explorer 🌍
+
 
 <!---
 cr7madh/cr7madh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
